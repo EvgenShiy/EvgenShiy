@@ -21,8 +21,7 @@
  
 - **Фреймворки и библиотеки**:  
 ![Selenide](https://img.shields.io/badge/Selenide-4caf50?style=for-the-badge&logo=selenide&logoColor=white)  
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-6DB33F?style=for-the-badge&logo=rest-assured&logoColor=white)  
-![AssertJ](https://img.shields.io/badge/AssertJ-007396?style=for-the-badge&logo=assertj&logoColor=white)  
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-6DB33F?style=for-the-badge&logo=rest-assured&logoColor=white)   
  
 - **Сборщики проектов**:  
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
