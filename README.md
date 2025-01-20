@@ -20,6 +20,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  
 - **Фреймворки и библиотеки**:  
+![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
 ![Selenide](https://img.shields.io/badge/Selenide-4caf50?style=for-the-badge&logo=selenide&logoColor=white)  
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-6DB33F?style=for-the-badge&logo=rest-assured&logoColor=white)   
  
